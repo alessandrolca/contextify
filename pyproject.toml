@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "contextify-cli"
+version = "0.1.0"
+authors = [{name="Alessandro de Lima Calixto Alves", email="alessandrolcal@yahoo.com"}]
+description = "A CLI tool to prepare code as context for AI assistants and other purposes."
+readme = "README.md"
+requires-python = ">=3.7"
+license = { file="LICENSE" }
+keywords = [
+  "ai",
+  "ai-assistant",
+  "cli",
+  "code",
+  "code-context",
+  "code-preparation",
+  "command-line",
+  "context",
+  "context-builder",
+  "developer-tool",
+  "development",
+  "llm",
+  "markdown",
+  "prompt-engineering",
+  "software-development",
+  "source-code",
+  "text-processing",
+  "utilities"
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Utilities",
+    "Topic :: Text Processing :: Markup :: Markdown",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Topic :: Utilities",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/alessandrolca/contextify"
+
+[project.scripts]
+contextify = "contextify.cli:main"
