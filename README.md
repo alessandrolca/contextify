@@ -1,7 +1,7 @@
 # Contextify CLI 💬🌲📝
 
 [![PyPI version](https://img.shields.io/pypi/v/contextify-cli.svg)](https://pypi.org/project/contextify-cli/)
-[![License](https://img.shields.io/pypi/l/contextify-cli.svg)](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/alessandrolca/contextfy/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/contextify-cli.svg)](https://github.com/alessandrolca/contextify/blob/main/LICENSE)
 [![Python Versions](https://img.shields.io/pypi/pyversions/contextify-cli.svg)](https://pypi.org/project/contextify-cli/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -111,7 +111,7 @@ You can always override or add to these with the `--ignore-dir` and `--ignore-fi
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/alessandrolca/contextfy/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://github.com/alessandrolca/contextify/issues) if you want to contribute.
 
 Please try to follow the existing code style (based on Black).
 
