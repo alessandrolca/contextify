@@ -3,7 +3,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/contextify-cli.svg)](https://pypi.org/project/contextify-cli/)
 [![License](https://img.shields.io/pypi/l/contextify-cli.svg)](https://github.com/alessandrolca/contextify/blob/main/LICENSE)
 [![Python Versions](https://img.shields.io/pypi/pyversions/contextify-cli.svg)](https://pypi.org/project/contextify-cli/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 **Contextify (`contextify-cli`)** is a command-line tool designed to scan your codebase, understand its structure, and consolidate relevant file contents into a single, clean Markdown document. This output is perfect for providing context to AI assistants (like ChatGPT, Claude, Gemini, etc.), for documentation purposes, or for quickly getting an overview of a project.
 
@@ -112,8 +111,6 @@ You can always override or add to these with the `--ignore-dir` and `--ignore-fi
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://github.com/alessandrolca/contextify/issues) if you want to contribute.
-
-Please try to follow the existing code style (based on Black).
 
 ## 📜 License
 
