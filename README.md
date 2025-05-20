@@ -41,7 +41,7 @@ You can install `contextify-cli` directly from PyPI using pip:
 pip install contextify-cli
 ```
 
-Make sure you have Python 3.7 or higher installed.
+Make sure you have Python 3.9 or higher installed.
 
 ## 🛠️ Usage
 
